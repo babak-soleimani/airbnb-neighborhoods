@@ -1,4 +1,4 @@
-# udacityproject
+# Boston Neighborhoods
 AirBnB Neighborhoods Overview
 Udacity Data Scientist Nanodegree Project.
 
