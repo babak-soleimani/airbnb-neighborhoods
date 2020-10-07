@@ -29,6 +29,7 @@ Dataset with the Airbnb listings in the city of Boston
 
 Results
 Please find the main results in the following Medium post:
+https://medium.com/@babaksoleimani/charming-or-diverse-the-good-vibes-of-airbnb-neighborhoods-89fa5c0ba9dc?source=friends_link&sk=354ae915f461ee6f782cfb401a531c1a
 
 
 Licensing, Authors, Acknowledgements
