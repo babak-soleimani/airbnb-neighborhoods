@@ -11,6 +11,7 @@ This code runs with Python version 3. Libraries needed for running the code are:
 4. seaborn
 
 You will also need to download Airbnb's boston listing dataset and put in specific folders. You can find the data to download from the link below. 
+
 https://www.kaggle.com/airbnb/boston
 
 # Project Motivation
@@ -29,8 +30,8 @@ Dataset with the Airbnb listings in the city of Boston
 
 # Results
 Please find the main results in the following Medium post:
-https://medium.com/@babaksoleimani/charming-or-diverse-the-good-vibes-of-airbnb-neighborhoods-89fa5c0ba9dc?source=friends_link&sk=354ae915f461ee6f782cfb401a531c1a
 
+https://bit.ly/3iFEaOK
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Airbnb for the data. 
